@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BugKun/mpvue-loader/tree/feature/webpack4-support"
+    "url": "https://github.com/BugKun/mpvue-loader/tree/nopast/webpack4-support"
   },
   "keywords": [
     "mpvue",
@@ -17,7 +17,7 @@
     "index.js",
     "lib"
   ],
-  "author": "bugkun",
+  "author": "nopast",
   "contributors": [
     {
       "name": "hucq"
@@ -28,9 +28,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bugkun/mpvue-loader/issues"
+    "url": "https://github.com/Meituan-Dianping/mpvue-loader/issues"
   },
-  "homepage": "https://github.com/bugkun/mpvue-loader",
+  "homepage": "https://github.com/BugKun/mpvue-loader",
   "scripts": {
     "lint": "eslint lib test",
     "lint:fix": "eslint lib test --fix",
